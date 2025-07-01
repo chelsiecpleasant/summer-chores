@@ -1,8 +1,12 @@
 # Summer Chores
 
-A fun JavaScript project using callbacks to simulate summer chores.
+This project shows a list of chores using:
 
-## How to Run
+- Callbacks (`callbackVersion.js`)
+- Promises (`promiseVersion.js`)
+
+## Run
 
 ```bash
 node callbackVersion.js
+node promiseVersion.js
