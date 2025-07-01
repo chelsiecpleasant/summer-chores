@@ -1,12 +1,14 @@
 # Summer Chores
 
-This project shows a list of chores using:
+Chore simulation using:
 
-- Callbacks (`callbackVersion.js`)
-- Promises (`promiseVersion.js`)
+- Callbacks
+- Promises
+- Async/Await
 
 ## Run
 
 ```bash
 node callbackVersion.js
 node promiseVersion.js
+node asyncAwaitVersion.js
